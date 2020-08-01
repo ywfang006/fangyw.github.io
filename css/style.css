@@ -143,6 +143,7 @@ span.m-left{
 .about {
   height: 100vh;
   margin-top: 100px;
+  padding: 200px;
 }
 
 .about h1,
@@ -187,6 +188,8 @@ span.m-left{
 
 .skills {
   height: 100vh;
+  margin-top: 100px;
+  padding-top: 100px;
 }
 
 .skills h1,
@@ -263,6 +266,7 @@ div[class^='bar-'] {
   text-transform: capitalize;
   border: 3px solid #ED5565;
   padding: 15px 30px;
+  margin: 15px;
   border-radius: 50px;
   color: #ED5565;
   font-size: 1.1rem;
@@ -274,6 +278,8 @@ div[class^='bar-'] {
 
 .work {
   height: 100vh;
+  margin-top: 100px;
+  padding-top: 100px;
 }
 
 div[class^='category-'] {
